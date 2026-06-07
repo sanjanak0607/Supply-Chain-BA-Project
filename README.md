@@ -40,7 +40,7 @@ The project focuses on four critical business areas:
 
 | File                                       | Description                                                        |
 | ------------------------------------------ | ------------------------------------------------------------------ |
-| `Cleaned Data.csv`                        | Cleaned dataset used for analysis                                  |
+| `Dataset.xlsx`                        | Cleaned dataset used for analysis                                  |
 | `SQL Queries.sql`                          | Complete SQL analysis containing 50 business-focused queries       |
 | `SupplyChain_Business_Insights_Report.pdf` | Final report containing findings, recommendations, and limitations |
 
